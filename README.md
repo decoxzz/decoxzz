@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me, my e-mail
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i am Brazilian
+- ⚡ Fun fact: nothing
 
 <!---
 decoxzz/decoxzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
